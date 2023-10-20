@@ -15,7 +15,7 @@ class ViewController: UIViewController {
     }
 
     func dwfdgy(){
-        
+        print(1)
     }
 }
 
